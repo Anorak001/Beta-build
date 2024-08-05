@@ -16,7 +16,7 @@ I am sure most of you would have already used a hypervisor before.If you haven't
 - Virtual machines are machines set up to use the resources of the host machine. You can divide these resources as many times as you like to accommodate the necessary virtual machine “guests.”
 - However not all the Virtual machines run on a OS , few of them like Qubes OS runs on baremetal and used Zen Hyervisor to handle resources.Lets now understand what are the different type of hypervisor.
 
-
+ 
 ## How does it Work?
 
 - Hypervisors and collections of virtual machines are used for numerous different tasks in a business setting, including data replication, server consolidation, desktop virtualization, and cloud computing.
