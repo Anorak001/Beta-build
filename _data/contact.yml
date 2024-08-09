@@ -20,3 +20,8 @@
 
 
 
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
+
+
