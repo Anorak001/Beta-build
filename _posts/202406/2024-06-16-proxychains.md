@@ -12,6 +12,7 @@ pin: true
 - Being anonymous on the internet or while carrying out an attack is one of the most important characteristics of a hacker. There are several ways to achieve this anonymity, one of which is by configuring proxy chains.
   It is an excellent way to remain anonymous while browsing the internet or conducting attacks. To achieve this anonymity, we will configure ProxyChains in Kali Linux in this article. 
 
+
 ## What are Proxy chains?
 - Proxychains are essentially a combination of proxies that reroute a TCP connection to any server using different protocols, such as HTTP, HTTPS, SOCK4 & SOCKS5, making the connection secure and making it nearly impossible for an observer to figure out what you are looking for up online and where you are. Through a very secure chain of proxies, ProxyChains serves as an intermediary between the source IP and the endpoint IP, concealing your identity.
 - Most people mistakenly believe that VPNs are safer than ProxyChains, however, the reality is that DNS leaks are more common in VPNs, making them less secure than ProxyChains.
