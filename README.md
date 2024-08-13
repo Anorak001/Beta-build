@@ -16,3 +16,9 @@ To run this site locally, follow these steps to
    ```bash
    git clone https://github.com/Anorak001/Anorak001.github.io.git
    ```
+
+
+## NEW FEATURES:
+
+- You Can stay updated with the blog by subscribing to the **RSS** Feed of my Blog.
+- Reactions and Comments are enabled with the help of open source vendor [**GISCUS**](https://giscus.app/)
