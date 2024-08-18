@@ -6,7 +6,7 @@ author: anorak
 date: 2024-06-16 00:00:00 +0530
 categories: [GUIDE,LINUX]
 tags: [Linux,Cybersecurity]
-pin: true
+pin: false
 ---
 # Staying Anonymous with ProxyChains in Kali Linux:
 - Being anonymous on the internet or while carrying out an attack is one of the most important characteristics of a hacker. There are several ways to achieve this anonymity, one of which is by configuring proxy chains.
