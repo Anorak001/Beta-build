@@ -4,7 +4,7 @@ description: >-
  What caused one of the biggest IT outages the world has ever faced
 author: anorak
 date: 2024-07-25 00:35:00 +0530
-categories: [NEWS,OUTAGE]
+categories: [NEWS,ISSUE]
 tags: [Serious Issue,Cybersecurity]
 pin: false
 ---
