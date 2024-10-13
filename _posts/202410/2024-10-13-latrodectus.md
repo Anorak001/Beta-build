@@ -1,5 +1,5 @@
 ---
-title: Understanding Latrodectus A Stealthy Cyber Threat
+title: Understanding Latrodectus, A Stealthy Cyber Threat
 description: >-
   Deepdive into working and methodology of Latrodectus malware
 author: anorak
