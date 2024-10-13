@@ -3,7 +3,7 @@ title: Session Hijacking 101
 description: >-
  Article on how Cybercriminals Take Over Your Online Sessions
 author: anorak
-date: 2024-09-06 14:30:00 +0530
+date: 2024-10-06 14:30:00 +0530
 categories: [GUIDE,CYBERSECURITY]
 tags: [Cybersecurity]
 pin: true
