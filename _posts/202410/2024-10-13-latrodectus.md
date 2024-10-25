@@ -11,7 +11,6 @@ pin: true
 
 
 ![img](/assets/img/202410/Latrodectus-Malware.webp){: width="600" height="600" .center}
-
 In today’s ever-changing world of cybersecurity, it feels like there’s always something new to watch out for. Staying knowledgeable is crucial to keeping ourselves safe. One of the latest threats causing a stir is Latrodectus ( discovered in jan2024) . It’s not only hard to say, it’s also hard to detect; it’s clever, sneaky, and poses a real threat to both people and businesses. In this article we dive into the world of Latrodectus, uncover how it operates, and most importantly, learn how to avoid it entirely.
 
 ## What is Latrodectus?
