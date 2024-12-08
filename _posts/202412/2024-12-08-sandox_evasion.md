@@ -62,6 +62,7 @@ Sandbox evading malware uses general features that indicate a virtualization / s
         - VMwareVMware for VMWare
         - XenVMMXenVMM for Xen.
 
+
 In general, malware analysts and security controls use several virtual machines in a malware analysis environment. This is because they need VMs running different versions of operating systems and software. Giving extensive resources, in terms of memory and storage sizes and processing power, to these VMs increases costs. As a result, analysts may create virtual machines with resources lower than physical machines. Adversaries use this habit and check the following system resources to understand the virtual machine environment.
 
   - Total physical memory size: A total RAM size that is lower than 4GB
